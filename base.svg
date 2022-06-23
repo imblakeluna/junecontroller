@@ -3,6 +3,7 @@
   <defs>
     <linearGradient gradientUnits="userSpaceOnUse" x1="374.91" y1="157.233" x2="374.91" y2="630.3" id="gradient-2" gradientTransform="matrix(0.955331, 0, 0, 0.955331, 16.747034, 10.661453)">
       <stop offset="0" style="stop-color: rgb(249, 200, 233);"/>
+      <stop offset="0.548" style="stop-color: rgb(187, 182, 251);"/>
       <stop offset="1" style="stop-color: rgb(172, 188, 250);"/>
     </linearGradient>
   </defs>
